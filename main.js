@@ -1,4 +1,4 @@
 (function () {
-    cont hexValue = document.getElementById('hex-value');
-    cont btn = document.getElementById('btn');
+    const hexValue = document.getElementById('hex-value');
+    const btn = document.getElementById('btn');
 })();
